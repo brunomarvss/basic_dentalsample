@@ -1,1 +1,2 @@
-# basic_dentalsample
+# basic_dentalsample (Java)
+#basic reference for beginners. 
